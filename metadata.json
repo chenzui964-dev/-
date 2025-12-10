@@ -1,0 +1,5 @@
+{
+  "name": "全网真伪比价助手",
+  "description": "输入商品名称，一键搜索全网官方平台最低价，并智能识别真伪风险。",
+  "requestFramePermissions": []
+}
